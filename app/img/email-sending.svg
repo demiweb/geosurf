@@ -1,0 +1,125 @@
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+   width="150px" height="150px" viewBox="0 0 150 150" style="enable-background:new 0 0 150 150;" xml:space="preserve">
+<style type="text/css">
+  .st0{fill:#33768D;stroke:#99BBC6;stroke-width:4.9046;stroke-miterlimit:10;}
+  .st1{fill:#FFFFFF;}
+  .st2{clip-path:url(#SVGID_2_);fill:#FFFFFF;}
+  .st3{fill:#99BBC6;}
+
+  .email-ani {
+    -webkit-animation: email 3s cubic-bezier(.57,.08,.52,.91) infinite alternate; /* Safari 4+ */
+    -moz-animation:    email 3s cubic-bezier(.57,.08,.52,.91) infinite alternate; /* Fx 5+ */
+    -o-animation:      email 3s cubic-bezier(.57,.08,.52,.91) infinite alternate; /* Opera 12+ */
+    animation:         email 3s cubic-bezier(.57,.08,.52,.91) infinite alternate; /* IE 10+, Fx 29+ */
+  }
+
+  .swish-ani-1 {
+    -webkit-animation: swish-1 0.8s linear infinite; /* Safari 4+ */
+    -moz-animation:    swish-1 0.8s linear infinite; /* Fx 5+ */
+    -o-animation:      swish-1 0.8s linear infinite; /* Opera 12+ */
+    animation:         swish-1 0.8s linear infinite; /* IE 10+, Fx 29+ */
+  }
+
+  .swish-ani-2 {
+    -webkit-animation: swish-2 1.5s linear infinite; /* Safari 4+ */
+    -moz-animation:    swish-2 1.5s linear infinite; /* Fx 5+ */
+    -o-animation:      swish-2 1.5s linear infinite; /* Opera 12+ */
+    animation:         swish-2 1.5s linear infinite; /* IE 10+, Fx 29+ */
+  }
+
+  .swish-ani-3 {
+    -webkit-animation: swish-3 1s linear infinite; /* Safari 4+ */
+    -moz-animation:    swish-3 1s linear infinite; /* Fx 5+ */
+    -o-animation:      swish-3 1s linear infinite; /* Opera 12+ */
+    animation:         swish-3 1s linear infinite; /* IE 10+, Fx 29+ */
+  }
+
+  @-webkit-keyframes email {
+    0%   { -webkit-transform: translateY(-7px); /* Safari */}
+    50% { -webkit-transform: translateY(7px); /* Safari */}
+  }
+  @-moz-keyframes email {
+    0%   { -moz-transform: translateY(-7px);}
+    50% { -moz-transform: translateY(7px);}
+  }
+  @keyframes email {
+    0%   { transform: translateY(-7px);}
+    50% { transform: translateY(7px);}
+  }
+
+
+  @-webkit-keyframes swish-1 {
+    0%   { -webkit-transform: translateX(90px); /* Safari */}
+    100% { -webkit-transform: translateX(-100px); /* Safari */}
+  }
+  @-moz-keyframes swish-1 {
+    0%   { -moz-transform: translateX(90px);}
+    100% { -moz-transform: translateX(-100px);}
+  }
+  @keyframes swish-1 {
+    0%   { transform: translateX(90px);}
+    100% { transform: translateX(-100px);}
+  }
+
+
+  @-webkit-keyframes swish-2 {
+    0%   { -webkit-transform: translateX(120px); /* Safari */}
+    100% { -webkit-transform: translateX(-100px); /* Safari */}
+  }
+  @-moz-keyframes swish-2 {
+    0%   { -moz-transform: translateX(120px);}
+    100% { -moz-transform: translateX(-100px);}
+  }
+  @keyframes swish-2 {
+    0%   { transform: translateX(120px);}
+    100% { transform: translateX(-100px);}
+  }
+
+
+  @-webkit-keyframes swish-3 {
+    0%   { -webkit-transform: translateX(90px); /* Safari */}
+    100% { -webkit-transform: translateX(-100px); /* Safari */}
+  }
+  @-moz-keyframes swish-3 {
+    0%   { -moz-transform: translateX(90px);}
+    100% { -moz-transform: translateX(-100px);}
+  }
+  @keyframes swish-3 {
+    0%   { transform: translateX(90px);}
+    100% { transform: translateX(-100px);}
+  }
+
+</style>
+<g id="email-icon" class="email-ani">
+    <polygon class="st1" points="64,58.665 64,85.71 82.422,73.395   "/>
+    <polyline class="st1" points="94.527,79.456 125.095,55 64,55  "/>
+    <polygon class="st1" points="125,85.71 125,58.709 106.424,73.516  "/>
+    <polygon class="st1" points="94.621,83 84.248,75.466 64,89.249 64,96 125,96 125,89.09 104.662,75.466  "/>
+
+</g>
+<g>
+  <defs>
+    <clipPath id="SVGID_2_">
+            <path id="SVGID_1_" d="M2.452,75c0,7.249,1.077,14.245,3.056,20.85h58.64V54.882H5.301C3.459,61.273,2.452,68.017,2.452,75z"/>
+    </clipPath>
+  </defs>
+  </g>
+  <g clip-path="url(#SVGID_2_)">
+    <polygon class="st2 swish-ani-1" points="60.299,61.227 20.208,59.117 20.208,59.117 60.299,56.191  " opacity=".5">
+
+      </polygon>
+    <polygon class="st2 swish-ani-2" points="40.254,77.985 0.162,75.874 0.162,75.874 40.254,72.948" opacity=".15">
+
+    </polygon>
+    <polygon class="st2 swish-ani-3" points="69.869,93.699 29.777,91.589 29.777,91.589 69.869,88.662  " opacity=".35">
+
+      </polygon>
+</g>
+</svg>
+
+
+
+
+
+
